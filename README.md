@@ -13,7 +13,7 @@ In order to run this software you will need to install the Meteor platform. For 
 
 https://www.meteor.com/install
 
-The installation instructions will be determined by your operating system. Please refer to the link above for more information.
+The installation instructions will be determined by your operating system. Please refer to the aforementioned link for more information.
 
 You can verify that Meteor has been successfully installed by running the following terminal command:
 
