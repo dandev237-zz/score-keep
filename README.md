@@ -3,6 +3,8 @@
 Simple web application which allows the user to keep track of scores of any tournament players.
 It has been developed using the Meteor platform (www.meteor.com) with the sole purpose of learning and practicing technologies such as JavaScript, MongoDB and React.
 
+**To see it in action, [click here!](https://score-keep-dg.herokuapp.com)**
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
